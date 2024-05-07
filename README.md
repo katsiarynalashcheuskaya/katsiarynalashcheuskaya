@@ -18,3 +18,5 @@
 ![Canva](https://img.shields.io/badge/-Canva-090909?style=for-the-badge&logo=Canva)
 ![AdobePhotoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=AdobePhotoshop)
 ![CodeWars](https://img.shields.io/badge/-CodeWars-090909?style=for-the-badge&logo=CodeWars)
+![NextJS](https://img.shields.io/badge/-next.js-090909?style=for-the-badge&logo=nextdotjs)
+![openai](https://img.shields.io/badge/-openai-090909?style=for-the-badge&logo=openai)
